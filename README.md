@@ -22,7 +22,7 @@ This project demonstrates the implementation of cloud computing in business oper
 
 ## Use Case Diagram
 
-![](diagrams/Use_Case_.png)
+![](diagrams/Use_Case.png)
 
 
 ## AWS Implementation
