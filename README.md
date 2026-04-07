@@ -14,15 +14,15 @@ This project demonstrates the implementation of cloud computing in business oper
 
 ### DFD Level 0
 
-![](diagrams/dfd-level0.png)
+![](diagrams/DFD_Level_0.png)
 
 ### DFD Level 1
 
-![](diagrams/dfd-level1.png)
+![](diagrams/DFD_Level_1.png)
 
 ## Use Case Diagram
 
-![](diagrams/usecase.png)
+![](diagrams/Use_Case_.png)
 
 
 ## AWS Implementation
